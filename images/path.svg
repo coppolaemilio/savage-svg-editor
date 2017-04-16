@@ -1,0 +1,17 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Savage - http://github.com/coppolaemilio/savage/ -->
+
+ <g>
+  <title>path.svg - Savage</title>
+  <rect fill="none" id="canvas_background" height="52" width="52" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>path.svg - Savage</title>
+  <g id="svg_3">
+   <path id="svg_1" d="m14.289085,23.781255c0.375,-0.84911 6.8385,-9.16668 13.14584,-4.45835c6.30733,4.70832 2.18753,11.17184 1.85419,12.12501c-0.33333,0.95317 -15.2343,9.60417 -15.74998,9.77083c-0.51568,0.16667 0.37495,-16.58838 0.74995,-17.43749z" stroke-opacity="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="2" stroke="#666666" fill-opacity="null" fill="none"/>
+   <path id="svg_2" d="m13.872465,40.884175c0,0.38926 7.06247,-13.04042 7.06239,-13.04052c0.00008,0.0001 -7.06239,12.65125 -7.06239,13.04052z" fill-opacity="null" stroke-opacity="null" fill="none" stroke="#666666"/>
+   <ellipse fill="#666666" stroke="#666666" stroke-opacity="null" cx="20.664101" cy="28.145804" id="svg_4" rx="0.874999" ry="1.031249"/>
+   <path fill="#666666" stroke="#666666" stroke-width="0" stroke-opacity="null" fill-opacity="null" d="m20.664105,18.364565l3.81246,-0.6875l3.18749,1.25l1.75,1.8125l1.4375,2l6.12499,-5.75c-2.08333,-2.31249 -1.60417,-2.62499 -6.18749,-6.49999l-8.49999,-1.87499l-1.62496,9.74998z" id="svg_5"/>
+  </g>
+ </g>
+</svg>

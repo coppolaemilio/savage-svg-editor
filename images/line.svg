@@ -1,0 +1,12 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Savage - http://github.com/coppolaemilio/savage/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line id="svg_3" y2="36.833292" x2="15.916699" y1="14.666702" x1="34.083303" fill-opacity="1" stroke-width="4" stroke="#666666" fill="none"/>
+ </g>
+</svg>

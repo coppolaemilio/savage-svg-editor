@@ -1,0 +1,42 @@
+.tool-button {
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+  padding: 5px;
+  img {
+    width: 30px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+}
+#tool_select.tool-button.tool_button_current {
+  img {
+    content: url(../images/select-selected.svg);
+  }
+}
+#tool_ellipse.tool-button.tool_button_current {
+  img {
+    content: url(../images/circle-selected.svg);
+  }
+}
+#tool_rect.tool-button.tool_button_current {
+  img {
+    content: url(../images/square-selected.svg);
+  }
+}
+#tool_line.tool-button.tool_button_current {
+  img {
+    content: url(../images/line-selected.svg);
+  }
+}
+#tool_text.tool-button.tool_button_current {
+  img {
+    content: url(../images/text-selected.svg);
+  }
+}
+#tool_path.tool-button.tool_button_current {
+  img {
+    content: url(../images/path-selected.svg);
+  }
+}

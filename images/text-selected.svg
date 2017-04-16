@@ -1,0 +1,14 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Savage - http://github.com/coppolaemilio/savage/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="52" width="52" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#56aaff" stroke-width="4" id="svg_2" height="23.666674" width="0.166755" y="13.833327" x="24.916623" fill="none"/>
+  <rect stroke="#56aaff" id="svg_1" height="0.1" width="22.16659" y="10.666716" x="13.916705" fill-opacity="null" stroke-opacity="null" stroke-width="4" fill="none"/>
+  <rect stroke="#56aaff" id="svg_3" height="0.1" width="5.499982" y="39.166617" x="22.250009" fill-opacity="null" stroke-opacity="null" stroke-width="4" fill="none"/>
+ </g>
+</svg>
